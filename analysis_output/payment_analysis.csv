@@ -1,0 +1,5 @@
+payment_method,order_count,total_sales
+COD,2541,163729794.8725
+Card,2525,161282172.7858
+UPI,2444,158821804.6354
+NetBanking,2490,158295333.2579
